@@ -1,5 +1,3 @@
-
-sudo python3 -m pip install -r requirments.txt
 sudo apt install neofetch -y
 clear
 echo "----------------------------------------------"
