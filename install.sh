@@ -9,11 +9,11 @@ fi
 
 checkroot
 
-apt install neofetch
+sudo apt install neofetch -y
 clear
 echo "----------------------------------------------"
 echo ""
-apt install php
+sudo apt install php -y
 clear
 echo "----------------------------------------------"
 echo ""
